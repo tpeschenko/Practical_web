@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(200, 233, 138);
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: rgb(182, 62, 126);
+}
+
+h4 {
+    color: green;
+}
+a {
+    color: green;
+}
+
+hr {
+    border-color: green;
+}
+p{
+    color: blue;
+}
